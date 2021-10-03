@@ -152,8 +152,8 @@ Instructions configurate Python to Power BI
 
 ## Future work
 
-This project can be extended by including even more APIs, analyzing more relationships between long texts in different fields.
+- Connect all the APIs and improve the searching method among them.
 
-Also, it is required a terms unifications globally in order to find the information in a simple way and thus reduce time.
+- Connect taxonomy schema and integrated data from APIs.
 
-Finally, the algorithms are scalable but it is required to use a complex infrastructure to elaborate network graphs to identify connections.
+- Improve visualization related to text analysis. Ie.: Clustering, similarities, etc.
