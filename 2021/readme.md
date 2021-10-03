@@ -105,7 +105,7 @@ We would like to thank to Zaragoza’s board members for providing us not only c
 ## References
 
 ### Data
-APIS:
+APIs:
 - APOD
 - Asteroids - NeoWs
 - DONKI
