@@ -6,7 +6,7 @@ Connected with the universe
 
 <p>&nbsp;</p>
 
-## High-Level Project Summary*
+## High-Level Project Summary
 Astronomical information is gathered from multiple agencies around the world. However, this one is growing rapidly and there is not consensus in the taxonomy. This makes difficult to find specific information and wasting time is irremediable. 
 For that reason, our goal is to find multiple relations in the released datasets, APIs, etc. from different agencies and visualize the mentioned relationships in a useful and interactive dashboard. We use techniques such as network graphs, text mining, clustering and NLP that help us to reach our main goal.
 By doing this, private researchers and public researchers will find easily what they are looking for and may continue their investigation.
@@ -14,11 +14,10 @@ By doing this, private researchers and public researchers will find easily what 
 <p>&nbsp;</p> 
 
 ## Link to Project "Demo"
-to do
-
+[Google's folder](https://drive.google.com/drive/folders/1oDOLO0M2HkRY11LV7DCpxiJ2NSULUJ7Y?usp=sharing)
 <p>&nbsp;</p>
 
-## Link to Final Project*
+## Link to Final Project
 [space_apps_challenge/2021](https://github.com/luismanriqueruiz/space_apps_challenge)
 
 <p>&nbsp;</p>
