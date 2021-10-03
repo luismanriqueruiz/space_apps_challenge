@@ -2,7 +2,7 @@
 
 ---
 ## Project title
-Connected with the universe
+Connected with the data universe
 
 <p>&nbsp;</p>
 
@@ -35,7 +35,7 @@ The data is first of all collected from multiple sources, from NASA’s taxonomy
 
 #### Power BI Solution
 
-The BI solution contains 2 parts: The data integration, analytics and modelling. In this step (3) we integrated python to analyze large texts by using text mining and NLP techniques. The last process is then uploading the solution into the Power BI service and visualization.
+The BI solution contains 2 parts: The data integration, analytics and modelling. In this step (3) we integrated python to analyze large texts by using text mining and NLP techniques. The last process (4) is then uploading the solution into the Power BI service and visualization.
 
 
 
@@ -98,7 +98,7 @@ By having some discussions about our experiences, knowledge and capabilities we 
 
 We knew that visualizations are important for understanding the relationship between datasets. For that reason, we focused on this point. Another relevant topic network graphs, it not only helps us to see relationships but finding clusters too. Finally, text mining and NLP techniques were important in this project because we also delved into long texts and tried to find specific clusters and common topics among the data.
 
-We would like to thank to Zaragoza’s board members for providing us not only comments but questions that help us to improve the final results. And also, to our families that know that we are passionate about this topic and in some way, we want to provide an idea of how to solve this humanity challenge.
+We would like to thank to Zaragoza’s board members for providing us their comments and for fuel up the discussion leading to the conception of novel perspectives. And also, to our families that know that we are passionate about this topic and in some way, we want to provide an idea of how to solve this humanity challenge.
 
 <p>&nbsp;</p>
 
