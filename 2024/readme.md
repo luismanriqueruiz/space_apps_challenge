@@ -37,7 +37,9 @@ Finally, as the cherry on top 🍨, we provided a link to the astronomy picture 
 
 - **Podcast details**: More information on how the podcast was created can be accessed [here](./documentation/podcast_creation_science_for_all.md)
 
+- **Extracting fundamental questions and answers**: The API's endpoints were studied to extract the information related to the experiments. We extracted the content from descriptions and protocols; however, information such as materials and parameters were also considered. We contemplated using Bidirectional encoder representations from transformers (BERT); nevertheless, the model should be finetuned for this type of information. Therefore, LLMs were finally chosen since they are trained with vast information and can provide good results.
 
+- **Deploying the app**: This web app was developed using Python 3.12 on Ubuntu 24.04.1 LTS with Anaconda. Docker was utilized for containerization, and the app was later deployed on Google Cloud. Special thanks to NASA and Google for their financial support and infrastructure.
 
 ### Use of Artificial Intelligence
 
@@ -56,6 +58,7 @@ Artificial intelligence was used to:
 - [Microsoft Bing Image Creator](https://copilot.microsoft.com/images/create)
 - [Open AI ChatGPT GPT-4o](https://chatgpt.com/)
 - [Google NotebookLM](https://notebooklm.google.com)
+- [Bidirectional encoder representations from transformers (BERT)](https://en.wikipedia.org/wiki/BERT_(language_model))
 
 ## Acknowledgments
 [Wei Hong Chin](https://www.linkedin.com/in/wei-hong-chin-68907650/) for our talks on AI applications.
