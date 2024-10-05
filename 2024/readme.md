@@ -28,7 +28,7 @@ Finally, as the cherry on top 🍨, we provided a link to the astronomy picture 
 ### Final Project
 - [Space Apps 2024 URL](https://streamlit-app-88387863998.us-central1.run.app)
 
-- [Space Apps 2024 Repository]
+- [Space Apps 2024 Repository](https://github.com/luismanriqueruiz/space_apps_challenge/tree/main/2024)
 
 ### Project Details
 - **Image generation**: Stable diffusion models were tested using Python 3.12 [Ref](./documentation/Image_generation.ipynb). However, the results from Microsoft Bing Image Creator were appropriated for sharing given the time and resources to develop this app and the investigation on how to create images using generative AI.
